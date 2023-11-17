@@ -12,4 +12,4 @@ If your Jupyter notebook does not show the mesa kernel, use Conda (after shuttin
 `conda activate mesa` (if not already in the environment)  
 `python -m ipykernel install --user --name=mesa --display-name="Mesa Kernel"`  
 
-Restart jupyter and you should see "Mesa Kerne" as a choice under Kernel > Change Kernel . . .   
+Restart jupyter and you should see "Mesa Kernel" as a choice under Kernel > Change Kernel . . .   
